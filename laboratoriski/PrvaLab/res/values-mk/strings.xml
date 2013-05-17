@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Прва ЛАБ</string>
+    <string name="action_settings">Опции</string>
+    <string name="hello_world">Здраво!</string>
+    <string name="title_activity_view_picture">Преглед на слика</string>
+    <string name="button_view">Преглед</string>
+    <string name="button_back">Назад</string>
+    
+</resources>
